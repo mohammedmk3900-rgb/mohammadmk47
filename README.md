@@ -32,3 +32,23 @@ Cyberpunk AAA PC Game Launcher built with C++ and Qt6.
 ```bash
 cmake -B build
 cmake --build build --config Release
+
+Screenshots
+Coming soon.
+
+
+---
+
+# .gitignore
+
+```gitignore
+/build
+/.vs
+*.user
+*.db
+*.log
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.vcxproj*
